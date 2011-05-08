@@ -10,4 +10,4 @@ http.createServer(function(req,res){
 //}).listen(c9_port,c9_host);
 }).listen(12265,'127.0.0.1');
 
-console.log("Server runnint at http://helloc9.wuminqi.cloud9ide.com");
+console.log("Server runnint at the url you know");
